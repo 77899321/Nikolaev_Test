@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Test</string>
+    <string name="старт" translatable="false">Start</string>
+    <string name="_1" translatable="false">1. Внимательно взгляните на рисунок с изображением Веселого Светофора. Каких геометрических фигур нет на рисунке: треугольников, кругов, прямоугольников, квадратов или все эти фигуры есть?</string>
+    <string name="Далее" translatable="false">Button</string>
+    <string name="imageView" translatable="false">TODO</string>
+    <string name="_2" translatable="false">2. Три предмета из представленных на картинке объединены по какому-либо признаку, в четвертый к этой группе не подходит. Необходимо определить «лишний» предмет. Почему ты так решил?</string>
+    <string name="далее" translatable="false">Dales</string>
+    <string name="ответ2" translatable="false">Octet</string>
+    <string name="Далее2" translatable="false">Dale2</string>
+    <string name="Start" translatable="false">Начать</string>
+    <string name="Vvedenie" translatable="false">Тест для поступления в школу робототехники</string>
+    <string name="editText" translatable="false">text</string>
+    <string name="далеее">далее</string>
+
+
+</resources>
